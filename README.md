@@ -1,5 +1,33 @@
-# 💫 About Me:
-About Me<br>Hello! I'm Tejas Marathe, a certified data science professional with expertise in SQL, Python, Advanced Excel, and Power BI. With a strong background in Machine Learning, Data Analysis, and Data Visualization, I excel at transforming data into actionable insights that drive business performance and strategic initiatives.<br><br>Key Skills:<br><br>Programming Languages: SQL, Python<br>Tools & Technologies: MySQL, PostgreSQL, Power BI, Advanced Excel, GitHub<br>Libraries: NumPy, pandas, Matplotlib, seaborn, scikit-learn<br>Soft Skills: Critical Thinking, Attention to Detail, Compliance & Regulatory Adherence<br><br>Notable Projects:<br><br>1] Predictive Modeling for Credit Card Approval: Developed machine learning models with 85% accuracy to enhance decision-making for financial institutions, potentially reducing approval times by 30%.<br><br>2]Interactive Sales Performance Dashboard: Created a dashboard that improved sales trend identification and strategy optimization by 20%.<br><br>3]Music Store Retail Data Management and Optimization: Executed SQL queries to streamline data processes, resulting in a 25% increase in data retrieval efficiency.<br><br>4]California Housing Market Analysis: Conducted data analysis that informed real estate investment strategies, improving decision-making accuracy by 20%.<br><br>Professional Experience:<br><br>Amazon (July 2021 - July 2023): As an Investigation Specialist, I conducted risk assessments on over 20,000 transactions, reducing fraud by 15% and achieving 98% customer satisfaction. Developed Power BI reports and advanced Excel functions to enhance strategic decision-making and workflow efficiency.<br><br>Certifications:<br><br>Certified Data Science Professional (OdinSchool, March 2024)<br>Tata Data Visualization Virtual Internship (Forage, April 2024)<br>Basic to Advanced Microsoft Excel Certification (Skill Nation, April 2024)<br>5 stars in SQL and SQL (Intermediate) Certification (HackerRank, April 2024)<br><br>Education:<br><br>Bachelor of Engineering in Mechanical Engineering (North Maharashtra University, April 2020)<br>I'm passionate about leveraging data to solve complex problems and am always looking for new challenges and opportunities to grow. Let's connect and collaborate on GitHub!
+# 💫 About Me
+
+Hello! I'm **Tejas Marathe**, a certified data science professional with expertise in **SQL, Python, Advanced Excel, and Power BI**. With a strong background in **Machine Learning, Data Analysis, and Data Visualization**, I excel at transforming data into actionable insights that drive business performance and strategic initiatives.
+
+### 🔧 Key Skills:
+- **Programming Languages:** SQL, Python
+- **Tools & Technologies:** MySQL, PostgreSQL, Power BI, Advanced Excel, GitHub
+- **Libraries:** NumPy, pandas, Matplotlib, seaborn, scikit-learn
+- **Soft Skills:** Critical Thinking, Attention to Detail, Compliance & Regulatory Adherence
+
+### 📊 Notable Projects:
+1. **[Predictive Modeling for Credit Card Approval](https://github.com/tejasymarathe/Predictive_Modeling_for_Credit_Card_Approval):** Developed machine learning models with 85% accuracy to enhance decision-making for financial institutions, potentially reducing approval times by 30%.
+2. **[Interactive Sales Performance Dashboard](https://github.com/tejasymarathe/Interactive_Sales_Performance_Dashboard):** Created a dashboard that improved sales trend identification and strategy optimization by 20%.
+3. **[Music Store Retail Data Management and Optimization](https://github.com/tejasymarathe/Music_Store_Retail_Data_Management_and_Optimization):** Executed SQL queries to streamline data processes, resulting in a 25% increase in data retrieval efficiency.
+4. **[California Housing Market Analysis](https://github.com/tejasymarathe/California_Housing_Market_Analysis):** Conducted data analysis that informed real estate investment strategies, improving decision-making accuracy by 20%.
+
+### 💼 Professional Experience:
+- **Amazon (July 2021 - July 2023):** As an Investigation Specialist, I conducted risk assessments on over 20,000 transactions, reducing fraud by 15% and achieving 98% customer satisfaction. Developed Power BI reports and advanced Excel functions to enhance strategic decision-making and workflow efficiency.
+
+### 🏆 Certifications:
+- **Certified Data Science Professional** (OdinSchool, March 2024)
+- **Tata Data Visualization Virtual Internship** (Forage, April 2024)
+- **Basic to Advanced Microsoft Excel Certification** (Skill Nation, April 2024)
+- **5 stars in SQL and SQL (Intermediate) Certification** (HackerRank, April 2024)
+
+### 🎓 Education:
+- **Bachelor of Engineering in Mechanical Engineering** (North Maharashtra University, April 2020)
+
+I'm passionate about leveraging data to solve complex problems and am always looking for new challenges and opportunities to grow. Let's connect and collaborate on GitHub!
+
 
 
 ## 🌐 Socials:
