@@ -9,7 +9,7 @@ Hello! I'm **Tejas Marathe**, a certified data science professional with experti
 - **Soft Skills:** Critical Thinking, Attention to Detail, Compliance & Regulatory Adherence
 
 ### 📊 Notable Projects:
-1. **[Predictive Modeling for Credit Card Approval](https://github.com/tejasymarathe/Predictive_Modeling_for_Credit_Card_Approval):** Developed machine learning models with 85% accuracy to enhance decision-making for financial institutions, potentially reducing approval times by 30%.
+1. **[Predictive Modeling for Credit Card Approval](https://github.com/tejasymarathe/Predictive_Modeling_for_Credit_Card_Approval-):** Developed machine learning models with 85% accuracy to enhance decision-making for financial institutions, potentially reducing approval times by 30%.
 2. **[Interactive Sales Performance Dashboard](https://github.com/tejasymarathe/Interactive_Sales_Performance_Dashboard):** Created a dashboard that improved sales trend identification and strategy optimization by 20%.
 3. **[Music Store Retail Data Management and Optimization](https://github.com/tejasymarathe/Music_Store_Retail_Data_Management_and_Optimization):** Executed SQL queries to streamline data processes, resulting in a 25% increase in data retrieval efficiency.
 4. **[California Housing Market Analysis](https://github.com/tejasymarathe/California_Housing_Market_Analysis):** Conducted data analysis that informed real estate investment strategies, improving decision-making accuracy by 20%.
